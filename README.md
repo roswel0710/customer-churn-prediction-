@@ -8,6 +8,7 @@
 
 ---
 
+
 ## 📌 Project Overview
 
 This project demonstrates an **end-to-end machine learning workflow** to predict customer churn in an e-commerce environment.
@@ -27,7 +28,16 @@ To build a churn prediction model that:
 - Supports **data-driven retention strategies**
 
 ---
+## 📦 Dataset
 
+The dataset was sourced from **Kaggle** and contains **5,630 customer records** with behavioral, transactional, and demographic features.
+
+- Customer behavior: OrderCount, CouponUsed, HourSpendOnApp  
+- Engagement: Tenure, SatisfactionScore  
+- Transaction: CashbackAmount, Payment Mode  
+- Customer profile: Gender, Marital Status, City Tier
+
+---
 ## 🧩 Analytical Workflow
 
 ### 🔹 Data Understanding & EDA
